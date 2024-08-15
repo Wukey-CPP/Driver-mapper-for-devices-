@@ -1,0 +1,20 @@
+Driver Installation and Device Mapping Instructions
+Connect the Amplifier to Your PC
+
+Plug the amplifier into your PC using a USB cable.
+[+] Ensure the amplifier's power is turned off before connecting.
+Power On the Amplifier
+
+[!] Hold down both the CH1 button and the Panel button simultaneously.
+While holding these buttons, turn on the amplifier.
+Open the Driver Mapper Application
+
+Navigate to and open the file named Driver Mapper on your PC.
+Configure Device and Driver
+
+[-] In the Driver Mapper application:
+Select the desired device from the drop-down list.
+Choose the appropriate driver from the available options.
+Initiate the Mapping Process
+
+Click the button at the bottom of the application to begin the mapping process.
